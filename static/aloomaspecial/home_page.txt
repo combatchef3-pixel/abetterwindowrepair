@@ -1,0 +1,48 @@
+      <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12" style="text-align: left;">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Replacement in the United States usually cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The window glass replacement cost in Florida and other states typically ranges from $250 to $700 per pane, depending on whether it is a single, double, or triple-pane unit.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I replace just the glass or do I need the whole window in Texas?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If your frames are in good condition, we can perform a window glass replacement in Texas. This is significantly cheaper than a full home window replacement near me in the United States.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What causes foggy glass in my windows in New York? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Fogging is caused by a seal failure in double-pane units. We offer window seal repair in New York or double pane window glass replacement in the United States to clear the moisture and restore insulation.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is vinyl window installation cost in California worth it?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. The vinyl window installation cost in California is an investment that yields high energy savings and increases your property value by providing superior thermal protection.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer emergency broken window repair in Illinois?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we provide 24/7 broken window repair in Illinois to ensure your home is never left vulnerable after an accident or storm.</p>
+                <div class="callalooma mx-auto"><a href="tel:888611-9879">Click Here To Call Us (888) 611-9879</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
